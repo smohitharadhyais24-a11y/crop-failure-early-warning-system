@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Node
+node_modules/
+
+# Environment variables
+.env
+
+# ML models (optional – large files)
+*.pkl
+*.h5
+
+# OS
+.DS_Store
+Thumbs.db
